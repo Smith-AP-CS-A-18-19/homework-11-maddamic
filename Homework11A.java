@@ -1,3 +1,5 @@
+// Michael Maddalon
+
 public class Homework11A extends Homework11 {
   public void problem2(int n) {
     for (int i = 0; i < aList.size(); i++) {
